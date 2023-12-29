@@ -3,7 +3,7 @@
         {
             "network" : "max",
             "activate_ads" : "true",
-            "int_interval" : 15,
+            "int_interval" : 2,
 
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
@@ -23,9 +23,9 @@
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "d3f42650079b6c13",
-            "max_native" : "91c93ae9c6da6b29",
-            "max_int" : "bf9766cdf3841f89",
+            "max_ban" : "1c9938e189312c67",
+            "max_native" : "6486712ce1f6115a",
+            "max_int" : "a04908d54d6e3775",
             
                "Enabled_Update_Activity":false,
                "Image_url":"https://i.postimg.cc/wTGCQFj2/000.png",
