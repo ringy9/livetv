@@ -27,13 +27,13 @@
             "max_native" : "7e402b8e51905ec2",
             "max_int" : "b222599ac2d5e7e5",
             
-               "Enabled_Update_Activity":false,
+               "Enabled_Update_Activity":true,
                "Image_url":"https://i.postimg.cc/wTGCQFj2/000.png",
                "Title":"YACINE TV",
                "Description":"This application has expired and is no longer used, press the button below to download and install the latest application.",
                "Button_Text":"Update Now!",
-               "Redirect_Link":"https://www.yacinetv-app.com/",
-               "Cancelable":true
+               "Redirect_Link":"https://play.google.com/store/apps/details?id=app.yahya.tv.plus",
+               "Cancelable":false
         }
     ],
 
