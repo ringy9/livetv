@@ -1,9 +1,9 @@
 {
     "config" : [
         {
-            "network" : "fan",
+            "network" : "max",
             "activate_ads" : "true",
-            "int_interval" : 5,
+            "int_interval" : 2,
 
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
@@ -70,7 +70,7 @@
         {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/ncTWVZgM/1.png",
-            "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3244",
+            "link" : "http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/268504",
             "type" : "iptv",
             "namecat" : "BIEN SPORT (480P)"
         },
@@ -78,14 +78,14 @@
                    {
             "title" : "beIN SPORTS 1 HD",
             "ico" : "https://i.postimg.cc/ncTWVZgM/1.png",
-            "link" : "http://mo3ad.xyz:80/live/mo3ad4Zz36p/mo3ad4Zz36p/314.ts",
+            "link" : "http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/268504",
             "type" : "iptv",
             "namecat" : "BIEN SPORT(720P)"
         },
                {
             "title" : "beIN SPORTS 1 FHD",
             "ico" : "https://i.postimg.cc/ncTWVZgM/1.png",
-            "link" : "http://mo3ad.xyz:80/live/mo3ad4Zz36p/mo3ad4Zz36p/314.ts",
+            "link" : "http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/268504",
             "type" : "iptv",
             "namecat" : "BIEN SPORT (1080P)"
         },
@@ -99,35 +99,35 @@
                 {
             "title" : "beIN SPORTS 2 HD",
             "ico" : "https://i.postimg.cc/zGBcV6Y7/2.png",
-            "link" : "http://mo3ad.xyz:80/live/mo3ad4Zz36p/mo3ad4Zz36p/280.ts",
+            "link" : "http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/268505",
             "type" : "iptv",
             "namecat" : "BIEN SPORT(720P)"
         },
                 {
             "title" : "beIN SPORTS 2 FHD",
             "ico" : "https://i.postimg.cc/zGBcV6Y7/2.png",
-            "link" : "http://mo3ad.xyz:80/live/mo3ad4Zz36p/mo3ad4Zz36p/280.ts",
+            "link" : "http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/268505",
             "type" : "iptv",
             "namecat" : "BIEN SPORT (1080P)"
         },
                 {
             "title" : "beIN SPORTS SD3",
             "ico" : "https://i.postimg.cc/HL8vtMx7/3.png",
-            "link" : "http://mo3ad.xyz:80/live/mo3ad4Zz36p/mo3ad4Zz36p/281.ts",
+            "link" : "http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/268505",
             "type" : "iptv",
             "namecat" : "BIEN SPORT (480P)"
         },
                         {
             "title" : "beIN SPORTS HD3",
             "ico" : "https://i.postimg.cc/HL8vtMx7/3.png",
-            "link" : "http://mo3ad.xyz:80/live/mo3ad4Zz36p/mo3ad4Zz36p/281.ts",
+            "link" : "http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/268505",
             "type" : "iptv",
             "namecat" : "BIEN SPORT(720P)"
         },
                         {
             "title" : "beIN SPORTS FHD3",
             "ico" : "https://i.postimg.cc/HL8vtMx7/3.png",
-            "link" : "http://mo3ad.xyz:80/live/mo3ad4Zz36p/mo3ad4Zz36p/281.ts",
+            "link" : "http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/268505",
             "type" : "iptv",
             "namecat" : "BIEN SPORT (1080P)"
         },
